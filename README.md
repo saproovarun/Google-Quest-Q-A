@@ -11,3 +11,9 @@ The task here is to build a predictive algorithm which would quantify these subj
 The Evaluation Metric for this competition is Spearman Rank Correlation Coefficient. The Spearman's rank correlation is computed for each target column, and the mean of these values is calculated for the submission score. The Predictions are in the range [0, 1]
 
 ## Dataset
+The Dataset is provided as train and test data. The scores for the model will be evaluated based on the Public and Private test data.
+Train Dataset has 6079 data points while Public Test Dataset has 476 data points. The Private Test Data is not disclosed.
+The dataset contains three text based columns namely question_title, question_body and answer.
+
+
+The training data has 30 target variables. The values of these variables are to be predicted for a given question-answer pair.
