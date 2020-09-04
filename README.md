@@ -17,3 +17,10 @@ The dataset contains three text based columns namely question_title, question_bo
 
 
 The training data has 30 target variables. The values of these variables are to be predicted for a given question-answer pair.
+
+## Reference Kernels & Papers
+* https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
+* https://www.kaggle.com/sakami/google-quest-single-lstm
+* https://www.kaggle.com/akensert/quest-bert-base-tf2-0
+* https://github.com/btrotta/kaggle-google-quest
+* https://arxiv.org/pdf/1905.05583.pdf
